@@ -75,7 +75,7 @@ animate();
 // 🔗 PROJECT LINKS
 function openProject(type) {
   if (type === 'portfolio') {
-    window.open('[statuesque-gelato-16fda2.netlify.app](https://statuesque-gelato-16fda2.netlify.app)');
+    window.open('https://pallavipathak703-source.github.io/pallavi-protfolio/');
   }
   if (type === 'todo') {
     window.open('https://pallavipathak703-source.github.io/Todo-app/');
